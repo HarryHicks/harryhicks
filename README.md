@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **life**. (I'm not a good psychologist sadly 😞)
 - 😊 Pronouns: He/him
 - 📧 Reach me at: 
-                  Discord - Hicksy#2047
-                  Email - hicks.harryj@gmail.com
+                  - Discord - Hicksy#2047
+                  - Email - hicks.harryj@gmail.com
 - 👨‍💻 My coding languages:
                   🐍 Python
                   🕸 HTML
