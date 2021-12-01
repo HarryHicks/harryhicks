@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about **life**. (I'm not a good psychologist sadly 😞)
+- 😊 Pronouns: He/him
+- 📧 Reach me at: 
+                  Discord - Hicksy#2047
+                  Email - hicks.harryj@gmail.com
+- 👨‍💻 My coding languages:
+                  🐍 Python
+                  🕸 HTML
+                  🧐 JavaScript (learning)
