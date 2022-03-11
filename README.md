@@ -21,4 +21,4 @@
 	-	☁ Nothing...
 
 ![HarryHicks's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryhicks&hide=contribs,prs)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harryhicks&repo=harryhicks)](https://github.com/harryhicks/gharryhicks)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harryhicks&repo=harryhicks)
